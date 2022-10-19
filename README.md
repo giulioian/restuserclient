@@ -22,7 +22,7 @@ CREATE THE FEATURE FLAG
 
 HOW TO DEPLOY
 
- - Clone this repository locally: git clone 
+ - Clone this repository locally: git clone https://github.com/giulioian/restuserclient
  - Compile and package the code: mvn clean package
  - Run the code: java -jar target/restuserclient-1.0-SNAPSHOT.jar
- You can play around with different rules for the feature flag 
+ - You can play around with different rules for the feature flag 
